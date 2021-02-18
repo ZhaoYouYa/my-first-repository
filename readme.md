@@ -1,7 +1,7 @@
 已经使用githug,githun,gitnub，两、三、四、五。。。年了。
 tang.cpp是刚刚可以hello world时写的代码。
 
-使用github的目的：
+使用github的目的，：
 1. 接触大神们的圈子。
 2. 寻找资源和学习。
 
